@@ -1,4 +1,7 @@
 
+### 提示词一
+---
+''' 
 我要做一个python访问url，提取返回json格式数据内容的程序。
 url类似这样
 https://ea.qingsuyun.com/h5/api/exercise/list/mainSwatch?mode=1&libraryId=042e86d045354de7a0fc18714586a0c9&mainIndex=4&practiceId=&pTime=1740466920253
@@ -60,8 +63,11 @@ url访问 的认证 可能是 header中的 authorization:
 请给我python代码，可以设定 题号，保存提取的内容到文本文件。同时保存原始的json到不同的文件。
 
 保存提取的内容和json数据分别到两个文件中，不要按题目分开文件保存。
+''' 
+---
 
-
+### 提示词 2 
+---
 
 从196开始，这种格式的url
 https://ea.qingsuyun.com/h5/api/exercise/list/mainSwatch?mode=1&libraryId=042e86d045354de7a0fc18714586a0c9&mainIndex=206&childIndex=3&practiceId=&pTime=1740468935066
