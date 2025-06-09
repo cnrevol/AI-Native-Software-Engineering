@@ -1,4 +1,3 @@
-🌍 选择语言 / Choose Language
 [English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md)
 
 ---
