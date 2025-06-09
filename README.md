@@ -1,88 +1,25 @@
-# Awesome Project
-
 **🌍 选择语言 / Choose Language**  
-[English](#english) | [简体中文](#chinese) | [日本語](#japanese) | [Español](#spanish)
-
+[English](#english) | [简体中文](#chinese) | [日本語](#japanese) 
 ---
 
+# 📌 AI-Native-Software-Engineering
+
 <a name="english"></a>
-# English Version
 
-## Introduction
-This is an awesome open-source project...
+Welcome to AI Native Software Engineering! This repository documents technologies, knowledge, and experience summaries related to AI native development, covering various useful content for easy reference at any time.
+## 📖 Goals
+- 📚 Document referable information in AI native software engineering to facilitate quick lookup.
+- 💡 Organize publicly shareable inspirations to provide ideas for future projects.
 
-## Features
-- Easy to use interface
-- Powerful API
-- Comprehensive documentation
+## 🚀 How to Use
+- Browse the documentation directly to find the information you need.
+- If you have new ideas or content, feel free to contribute updates.
 
-## Installationgit clone https://github.com/username/awesome-project.git
-cd awesome-project
-npm install
-npm start
-## License
-This project is licensed under the MIT License.
+📬 Continuously updating - welcome to explore!
+AI Native Software Engineering by Mr blue define edition
 
 
 <a name="chinese"></a>
-# 中文版
-
-## 项目介绍
-这是一个很棒的开源项目...
-
-## 特性
-- 易于使用的界面
-- 强大的 API
-- 全面的文档
-
-## 安装git clone https://github.com/username/awesome-project.git
-cd awesome-project
-npm install
-npm start
-## 许可证
-本项目采用 MIT 许可证授权。
-
-
-<a name="japanese"></a>
-# 日本語版
-
-## プロジェクトの概要
-これは素晴らしいオープンソースプロジェクト...
-
-## 特徴
-- 使いやすいインターフェース
-- 強力な API
-- 包括的なドキュメント
-
-## インストールgit clone https://github.com/username/awesome-project.git
-cd awesome-project
-npm install
-npm start
-## ライセンス
-このプロジェクトは MIT ライセンスの下でライセンスされています。
-
-
-<a name="spanish"></a>
-# Versión en Español
-
-## Introducción
-Este es un proyecto de código abierto asombroso...
-
-## Características
-- Interfaz fácil de usar
-- API potente
-- Documentación completa
-
-## Instalacióngit clone https://github.com/username/awesome-project.git
-cd awesome-project
-npm install
-npm start
-## Licencia
-Este proyecto está licenciado bajo la Licencia MIT.
----
-
-
-
 # 📌 AI 原生软件工程 **AI-Native-Software-Engineering**
 
 欢迎来到 **AI 原生软件工程**！这里记录了与 AI 原生开发相关的技术，知识，经验总结，涵盖各种有用的内容，方便随时查找。
@@ -96,3 +33,28 @@ Este proyecto está licenciado bajo la Licencia MIT.
 - 如果你有新的想法或内容，也可以贡献更新。
 
 📬 **持续更新中，欢迎探索！** AI Native Software Engineering by Mr blue define edition
+
+
+<a name="japanese"></a>
+# 📌 AI ネイティブソフトウェアエンジニアリングへようこそ！
+
+ここには、AI ネイティブ開発に関連する技術、知識、経験のまとめを記録しており、様々な有用なコンテンツをカバーしており、必要な時にすぐに参照できます。
+
+## 📖 目標
+- 📚 AI ネイティブソフトウェアエンジニアリングにおける参考に値する情報を記録し、素早い参照を支援する。
+- 💡 公開可能なアイデアを整理し、将来のプロジェクトにアイデアを提供する。
+
+## 🚀 使用方法
+- ドキュメントを直接閲覧し、必要な情報を探してください。
+- 新しいアイデアやコンテンツがあれば、更新に貢献することもできます。
+
+📬 継続的に更新中です！ぜひご探索ください！
+AI ネイティブソフトウェアエンジニアリング by Mr blue define edition
+
+---
+
+
+
+
+
+
