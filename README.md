@@ -1,5 +1,8 @@
-**🌍 选择语言 / Choose Language**  
+🌍 选择语言 / Choose Language
 [English](#english) | [简体中文](#chinese) | [日本語](#japanese) 
+
+[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md)
+
 ---
 
 # 📌 AI-Native-Software-Engineering
@@ -18,6 +21,8 @@ Welcome to AI Native Software Engineering! This repository documents technologie
 📬 Continuously updating - welcome to explore!
 AI Native Software Engineering by Mr blue define edition
 
+---
+
 
 <a name="chinese"></a>
 # 📌 AI 原生软件工程 **AI-Native-Software-Engineering**
@@ -33,6 +38,9 @@ AI Native Software Engineering by Mr blue define edition
 - 如果你有新的想法或内容，也可以贡献更新。
 
 📬 **持续更新中，欢迎探索！** AI Native Software Engineering by Mr blue define edition
+
+---
+
 
 
 <a name="japanese"></a>
