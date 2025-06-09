@@ -1,2 +1,15 @@
-# AI-Native-Software-Engineering
-AI Native Software Engineering by Mr blue define edition
+# 
+
+# 📌 AI 原生软件工程 **AI-Native-Software-Engineering**
+
+欢迎来到 **AI 原生软件工程**！这里记录了与 AI 原生开发相关的技术，知识，经验总结，涵盖各种有用的内容，方便随时查找。
+
+## 📖 目标
+- 📚 **记录** AI 原生软件工程 中值得参考的信息，帮助快速查阅。
+- 💡 **整理** 一些可公开的灵感，为未来的项目提供思路。
+
+## 🚀 使用方式
+- 直接浏览文档，查找所需信息。
+- 如果你有新的想法或内容，也可以贡献更新。
+
+📬 **持续更新中，欢迎探索！** AI Native Software Engineering by Mr blue define edition
