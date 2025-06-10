@@ -19,7 +19,7 @@ This repository documents technologies, knowledge, and experience summaries rela
 
 ## Documents list
 
-- [AI Driven SE](documents/AI-Driven-SE.md)
+- [AI Driven Software Engineering Guide](documents/AI-Driven-SE.md) -- Step-by-step guide to using AI for faster and better coding — whether you're building your own software or developing for clients, starting from scratch or revamping old systems, you'll find practical tips and solutions for avoiding pitfalls here.
 
 📬 Continuously updating - welcome to explore! AI Native Software Engineering by Mr blue define edition
 
