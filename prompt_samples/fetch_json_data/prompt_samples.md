@@ -52,8 +52,9 @@ pTime 是时间戳，最好可以真实，但是程序访问时，需要模拟�
 }
 
 页面显示内容截图
+```
 ![alt text](image.png)
-
+```bash
 我要提取题号， 题目内容，答案选项，正确答案。
 
 url访问 的认证 可能是 header中的 authorization:
@@ -73,9 +74,10 @@ url访问 的认证 可能是 header中的 authorization:
 https://ea.qingsuyun.com/h5/api/exercise/list/mainSwatch?mode=1&libraryId=042e86d045354de7a0fc18714586a0c9&mainIndex=206&childIndex=3&practiceId=&pTime=1740468935066
 
 有childIndex 代表这个题目是一个题目有多个问题。至于每道题目有几个问题，参考图片。
+```
 ![alt text](image-1.png)
 ![alt text](image-2.png)
-
+```bash
 1. 根据图片提取出196 到206的每道题的问题数，按照这个问题数，设定访问的url。
 2. 解析出题目内容，保存到多选题的文本文件和json文件。
 3. 数据中的 html代码，回车换行等其他编码也要过滤掉。
