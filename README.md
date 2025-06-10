@@ -19,7 +19,7 @@ This repository documents technologies, knowledge, and experience summaries rela
 
 ## Documents list
 
-- [AI Driven SE](document/AI-Driven-SE.md)
+- [AI Driven SE](documents/AI-Driven-SE.md)
 
 📬 Continuously updating - welcome to explore! AI Native Software Engineering by Mr blue define edition
 
