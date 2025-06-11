@@ -21,4 +21,4 @@
 
 - 📄[AI驱动软件工程_开启高效开发新范式](documents/AI驱动软件工程_开启高效开发新范式v1.0.pdf) ， 这是演示用的文稿，可以快速通读要点。
 
-📬 **持续更新中，欢迎探索！** AI Native/Driven Software Engineering ✨by Mr blue define edition✨
+📬 **持续更新中，欢迎探索！** AI Native/Driven Software Engineering ✨by Mr.Blue define edition✨

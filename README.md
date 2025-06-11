@@ -25,7 +25,7 @@ This repository documents technologies, knowledge, and experience summaries rela
 
 - 📄[AI Driven SE Presentation](documents/AI驱动软件工程_开启高效开发新范式v1.0.pdf)  This document for demonstration purposes,which allows for a quick overview of key ideas.
 
-📬 Continuously updating - welcome to explore! AI Native/Driven Software Engineering ✨by Mr blue define edition✨
+📬 Continuously updating - welcome to explore! AI Native/Driven Software Engineering ✨by Mr.Blue define edition✨
 
 
 

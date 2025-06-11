@@ -20,4 +20,4 @@
 - 📄[AI Driven SE Presentation](documents/AI驱动软件工程_开启高效开发新范式v1.0.pdf)  この資料は、主なポイントを手早く把握するためのデモンストレーションです。
 
 📬 継続的に更新中です！ぜひご探索ください！
-AI ネイティブ　ドレイブン/ソフトウェア　エンジニアリング ✨by Mr blue define edition✨
+AI ネイティブ　ドレイブン/ソフトウェア　エンジニアリング ✨by Mr.Blue define edition✨
