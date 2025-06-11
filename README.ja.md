@@ -15,6 +15,7 @@
 ## 📖 文章
 
 - [AI Driven Software Engineering Guide](documents/AI-Driven-SE.md)、 AIで効率的に高品質なコードを書く実践ガイド——自社ソフト開発、クライアント向け開発、ゼロからの構築、レガシーシステム改良まで、使えるテクニックと落とし穴回避法がここに！
+- [AI Driven SE Presentation](documents/AI驱动软件工程_开启高效开发新范式v1.0.pdf)  この資料は、主なポイントを手早く把握するためのデモンストレーションです。
 
 📬 継続的に更新中です！ぜひご探索ください！
 AI ネイティブソフトウェアエンジニアリング by Mr blue define edition
