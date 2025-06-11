@@ -19,7 +19,7 @@ This repository documents technologies, knowledge, and experience summaries rela
 - Browse the documentation directly to find the information you need.
 - If you have new ideas or content, feel free to contribute updates.
 
-## 🔗 ssDocuments list
+## 🔗 Documents list
 
 - 📄[AI Driven Software Engineering Guide](documents/AI-Driven-SE.md) -- Step-by-step guide to using AI for faster and better coding — whether you're building your own software or developing for clients, starting from scratch or revamping old systems, you'll find practical tips and solutions for avoiding pitfalls here.
 
