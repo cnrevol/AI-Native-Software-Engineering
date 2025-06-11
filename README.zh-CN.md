@@ -6,6 +6,9 @@
 **AI-Native-Software-Engineering**
 **AI-Driven-Software-Engineering**
 
+- ✨ 我是一个 AI 实践者，涉及计算机视觉、RAG、Agent系统等多方面项目
+- 😄 [查看我在 LinkedIn 上的 AI 项目总结](https://www.linkedin.com/in/song-jie-mrblue/) 或者 [我放在 GitHub repo 上的 AI 项目总结](MrBlue/MrBlueWithAI.md)
+
 ## 📖 目标
 - 📚 **记录** AI 原生软件工程 中值得参考的信息，帮助快速查阅。
 - 💡 **整理** 一些可公开的灵感，为未来的项目提供思路。

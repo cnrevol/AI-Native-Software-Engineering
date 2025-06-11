@@ -8,6 +8,10 @@ Welcome to AI Native Software Engineering!
 This repository documents technologies, knowledge, and experience summaries related to AI native development, covering various useful content for easy reference at any time.
 **AI-Native-Software-Engineering**
 **AI-Driven-Software-Engineering**
+
+- ✨ I'm an AI practitioner involved in various projects such as computer vision, RAG, and Agent systems.
+- 😄 [View my AI project summary on LinkedIn](https://www.linkedin.com/in/song-jie-mrblue/) Or [ my AI project summary on GitHub repo](MrBlue/MrBlueWithAI.md)
+
 ## 📖 Goals
 
 - 📚 Document referable information in AI native software engineering to facilitate quick lookup.
