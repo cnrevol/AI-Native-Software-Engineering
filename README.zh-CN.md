@@ -12,11 +12,11 @@
 - 直接浏览文档，查找所需信息。
 - 如果你有新的想法或内容，也可以贡献更新。
 
-## 📖 文档列表
+## 🔗 文档列表
 
-- [AI 驱动的软件开发指南](documents/AI-Driven-SE.md) ，手把手教你用AI又快又好写代码——不管你是自己做软件、还是帮客户做项目，从零开始还是改老系统，都能在这儿找到实用招数和避坑指南。
+- 📄[AI 驱动的软件开发指南](documents/AI-Driven-SE.md) ，手把手教你用AI又快又好写代码——不管你是自己做软件、还是帮客户做项目，从零开始还是改老系统，都能在这儿找到实用招数和避坑指南。
 码农福音！AI开发实战宝典：教你用新工具提效、避雷、接各种活儿！
 
-- [AI Driven SE Presentation](documents/AI驱动软件工程_开启高效开发新范式v1.0.pdf)  这是演示用的文稿，可以快速通读要点。
+- 📄[AI Driven SE Presentation](documents/AI驱动软件工程_开启高效开发新范式v1.0.pdf)  这是演示用的文稿，可以快速通读要点。
 
-📬 **持续更新中，欢迎探索！** AI Native Software Engineering by Mr blue define edition
+📬 **持续更新中，欢迎探索！** AI Native/Driven Software Engineering ✨by Mr blue define edition✨
